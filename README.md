@@ -66,7 +66,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya2003&show_icons=true&theme=dark" alt="GitHub stats" height="150"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Aaditya2003&show_icons=true&theme=dark" alt="GitHub stats" height="150"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya2003&layout=compact&theme=dark" alt="Top Languages" height="150"/>
 </p>
 
