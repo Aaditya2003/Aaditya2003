@@ -14,8 +14,16 @@
 ---
 
 ### 🧑‍💼 Experience
-- **Goldman Sachs (Summer Analyst)**: Automated performance testing with **Gatling, OAuth2, AWS CDK, ECS Fargate**; integrated **PagerDuty** for incident alerts.
-- **INMAS-DRDO (Research Intern)**: Built a **CNN pipeline for mental stress detection** using sEMG signals, achieving **95% accuracy**.
+- **Goldman Sachs (Summer Analyst)**  
+  - **Collateral & Loans Manager Automation**  
+    - Built a **few-shot BERT-based NER pipeline** for automating collateral appraisal updates, achieving **F1 ≈ 0.9965**.  
+    - Implemented **intelligent document validation** using Latent Semantic Analysis (LSA), reducing manual review from **45 minutes to 15 seconds**.  
+  - **API Performance Testing & Monitoring**  
+    - Automated performance testing with **Gatling, OAuth2, AWS CDK, ECS Fargate**, and integrated **PagerDuty** for incident alerts.
+
+- **INMAS-DRDO (Research Intern)**  
+  - Built a **CNN pipeline for mental stress detection** using sEMG signals, achieving **95% accuracy**.
+
 
 ---
 
